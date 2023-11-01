@@ -15,7 +15,7 @@ COPY . .
 
 
 # Expose the port on which the application will run
-EXPOSE 3000
+EXPOSE 8080
 
 
 # Start the application
