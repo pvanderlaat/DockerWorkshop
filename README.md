@@ -3,5 +3,5 @@
 ## How to run the API locally:
 - npm i
 - node server.js
-- Go to "http://localhost:3000/random"
-- Go to "http://localhost:3000/fact?index=3"
+- Go to "http://localhost:8080/random"
+- Go to "http://localhost:8080/fact?index=3"
